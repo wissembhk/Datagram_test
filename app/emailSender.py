@@ -21,5 +21,3 @@ def send_mail(content):
     print("logged")
     server.send_message(msg)
 
-
-send_mail("aa")
